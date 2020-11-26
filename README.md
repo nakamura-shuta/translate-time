@@ -1,7 +1,7 @@
 # translate-time package
 
 
-1. select unix timestamp
+1.select unix timestamp
 ex.1601514000000
 
 2.[ctrl + alt + T]
