@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "translate time",
+        "command": "translate-time:translate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "translate-time",
+          "submenu": [
+            {
+              "label": "translate",
+              "command": "translate-time:translate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
